@@ -1,3 +1,7 @@
+//"env": {
+//    "CLAUDE_CODE_ATTRIBUTION_HEADER" : "0"
+//  }
+
 'use strict'
 const express = require('express')
 const { Readable } = require('stream')
